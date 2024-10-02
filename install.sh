@@ -17,3 +17,7 @@ echo "autocmd VimEnter * NERDTree | wincmd p" >> ~/.vimrc
 
 # Configure Vim
 echo "set number" >> ~/.vimrc
+echo "set tabstop=4" >> ~/.vimrc
+echo "set shiftwidth=4" >> ~/.vimrc
+echo "set softtabstop=4" >> ~/.vimrc
+echo "set expandtab" >> ~/.vimrc
