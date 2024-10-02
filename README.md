@@ -1,7 +1,5 @@
 # Vim Environment Installer
 
 ```bash
-git clone https://github.com/justinjordan/vim-installer.git
-./vim-installer/install.sh
-rm -rf vim-installer
+curl https://raw.githubusercontent.com/justinjordan/vim-installer/main/install.sh | sh
 ```
